@@ -1,0 +1,9 @@
+{
+  "frutas": [
+      {
+          "morango": 2,
+          "abacate" : 1,
+          "maça": 3
+      }
+  ]
+}
